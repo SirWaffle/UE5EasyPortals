@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE5EasyPortals",
+	"Description": "attempt at making easy seamless portals",
+	"Category": "Code",
+	"CreatedBy": "SirWaffle",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UE5EasyPortals",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
